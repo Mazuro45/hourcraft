@@ -6,13 +6,13 @@ Hourglass made in Minecraft
 - https://store.steampowered.com/app/1212410/Hourglass/
 - https://twitter.com/cyberwavegames?lang=de
 >
-### -- APIs by others --
-- I also used code form other Github Users.
+## -- APIs by others --
+I also used code form other Github Users.
 >
-### Player Motion API
+Player Motion API
 - https://github.com/BigPapi13/Delta
 >
-### WASD Tracking API
+WASD Tracking API
 - https://github.com/JDawgtor/WASD-Detection
 >
 >
@@ -29,5 +29,4 @@ Models that are not loaded correctly can be fixt, by using
 tigger reload
 ```
 ## -- Level Editor [Experimental] --
-when you are trying to make your own Levels your can enter the Level Editor by completing the Tutorial Section of the Game. 
-
+If you are trying to make your own Levels, you can enter the Level Editor after you completing the Tutorial
