@@ -1,4 +1,4 @@
-# hourcraft
+# Hourcraft
 Hourglass made in Minecraft
 >
 all rights to Hourglass belong to Cyberwave, this is just a fanart version made in Minecraft.
