@@ -8,12 +8,14 @@ https://twitter.com/cyberwavegames?lang=de
 >
 >
 >
-I also used code form other Github Users.
 >
-# -- Player Motion API --
+# -- APIs by others --
+I also used code form other Github Users.
+-
+Player Motion API
 https://github.com/BigPapi13/Delta
 >
-#-- WASD Tracking API --
+WASD Tracking API
 https://github.com/JDawgtor/WASD-Detection
 >
 >
