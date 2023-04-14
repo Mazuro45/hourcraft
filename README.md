@@ -1,5 +1,5 @@
 # Hourcraft
-Hourglass made in Minecraft
+Hourcraft is an Minecraft Adventure Map based on Hourglass, most Gamplay are the same but it is not an 1 to 1 recreation, the Storyplot is different and I also implemnted own Ideas for Gameplay features.
 >
 ## Cyberwave
 - all rights to Hourglass belong to Cyberwave, this is just a fanart version made in Minecraft.
@@ -16,11 +16,11 @@ WASD Tracking API
 - https://github.com/JDawgtor/WASD-Detection
 >
 >
-## -- Instalation --
+## -- Installation --
 In the Downloaded ZIB you will find a File called `Hourcraft_RP` and `Hourglass [Minecraft Edition]`,
 >
 - The first is the `resourcepack`, put this in your `resourcepacks` folder of your `.minecraft` instance.
-- The scond file ist the `Wolrd`, put this in your `saves` folder of your `.minecraft` instance.
+- The second file is the `Wolrd`, put this in your `saves` folder of your `.minecraft` instance.
 >
 ## -- Fixes --
 In some cases the map can start to Laag, a quick relog in the World can fix it.
