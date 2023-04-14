@@ -16,7 +16,7 @@ WASD Tracking API
 - https://github.com/JDawgtor/WASD-Detection
 >
 >
-## -- Instuctions --
+## -- Instalation --
 In the Downloaded ZIB you will find a File called `Hourcraft_RP` and `Hourglass [Minecraft Edition]`,
 >
 - The first is the `resourcepack`, put this in your `resourcepacks` folder of your `.minecraft` instance.
