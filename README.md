@@ -6,7 +6,7 @@ Hourglass made in Minecraft
 - https://store.steampowered.com/app/1212410/Hourglass/
 - https://twitter.com/cyberwavegames?lang=de
 >
-## -- APIs by others --
+## -- Used APIs --
 I also used code form other Github Users.
 >
 Player Motion API
