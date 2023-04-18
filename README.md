@@ -9,10 +9,10 @@ Hourcraft is an Minecraft Adventure Map based on Hourglass, most Gamplay are the
 ## -- Used APIs --
 I also used code form other Github Users.
 >
-Player Motion API
+#### Player Motion API
 - https://github.com/BigPapi13/Delta
 >
-WASD Tracking API
+#### WASD Tracking API
 - https://github.com/JDawgtor/WASD-Detection
 >
 >
@@ -24,8 +24,10 @@ In the Downloaded ZIB you will find a File called `Hourcraft_RP` and `Hourglass 
 >
 ## -- Recommendations --
 - Tested Minecraft Version 1.19.4.
-- Currently no External Shader support.
-- 
+- Tested Fabic Mods/Version
+- - Fabric 0.14.17
+- - sodium-fabric-mc1.19.4-0.4.10+build.24
+#### If you want to use a shader, make sure that you are toggle the shader option in your in Game Menu. 
 
 
 ## -- Fixes --
