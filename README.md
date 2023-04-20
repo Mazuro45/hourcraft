@@ -32,7 +32,7 @@ In the Downloaded ZIB you will find a File called `Hourcraft_RP` and `Hourglass 
 trigger toggel.external.shader set #value
 
 ## values
-# 0 --> External Shader can be used. Map internal Shaders disabled.   --- Not Recommnded
+# 0 --> External Shader can be used. Map internal Shaders disabled.   --- Not Recommended
 # 1 --> Map Internal Shaders are used. Disable your extermal Shaders. --- Recommended
 
 ```
