@@ -27,7 +27,7 @@ In the Downloaded ZIB you will find a File called `Hourcraft_RP` and `Hourglass 
 - Tested Fabic Mods/Version
 - - Fabric 0.14.17
 - - sodium-fabric-mc1.19.4-0.4.10+build.24
-#### External Shaders are not Completly Implemented yet, if you want to use an External Shader, use:
+#### External Shaders are not supported yet, if you still want to use an external shader, use:
 ```mcfunction
 trigger toggel.external.shader set #value
 
