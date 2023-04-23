@@ -1,4 +1,4 @@
-# Hourcraft
+# Hourcraft [Minecraft Version 1.19.4]
 Hourcraft is an Minecraft Adventure Map based on Hourglass, most Gamplay are the same but it is not an 1 to 1 recreation, the Storyplot is different and I also implemnted own Ideas for Gameplay features. Please read the Full Introductions carefully.  
 >
 ## Cyberwave
@@ -22,8 +22,8 @@ I also used code form other Github Users.
 - The first is the `resourcepack`, put this in your `resourcepacks` folder of your `.minecraft` instance.
 - The second file is the `Wolrd`, put this in your `saves` folder of your `.minecraft` instance.
 >
-- When you enter Minecraft, make sure the graphics setting is set to 'Fabulous!' is set
--- Vido Settings --> Quality --> Graphics 
+- When you enter Minecraft, make sure the graphics setting is set to `Fabulous!` is set
+- - Vido Settings --> Quality --> Graphics 
 
 ## -- Recommendations --
 - Tested Minecraft Version 1.19.4.
