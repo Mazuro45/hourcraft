@@ -17,11 +17,14 @@ I also used code form other Github Users.
 >
 >
 ## -- Installation --
-In the Downloaded ZIB you will find a File called `Hourcraft_RP` and `Hourglass [Minecraft Edition]`,
+#### In the Downloaded ZIB you will find a File called `Hourcraft_RP` and `Hourglass [Minecraft Edition]`,
 >
 - The first is the `resourcepack`, put this in your `resourcepacks` folder of your `.minecraft` instance.
 - The second file is the `Wolrd`, put this in your `saves` folder of your `.minecraft` instance.
 >
+- When you enter Minecraft, make sure the graphics setting is set to 'Fabulous!' is set
+-- Vido Settings --> Quality --> Graphics 
+
 ## -- Recommendations --
 - Tested Minecraft Version 1.19.4.
 - Tested Fabic Mods/Version
