@@ -30,7 +30,7 @@ I also used code form other Github Users.
 - Tested Fabic Mods/Version
 - - Fabric 0.14.17
 - - sodium-fabric-mc1.19.4-0.4.10+build.24
-#### External Shaders are not supported yet, if you still want to use an external shader, use:
+#### External Shaders are supported, but the blend between the internal shader seems glitshed, becaused it uses an different method to applay the shader:
 ```mcfunction
 trigger toggel.external.shader set #value
 
