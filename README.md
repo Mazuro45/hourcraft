@@ -34,10 +34,10 @@ I also used code form other Github Users.
 ```mcfunction
 trigger toggel.external.shader set #value
 
-## values                                                                                                                     Performance Impact
-# -1 --> No Internal Shader be used. Overlay will be used. Supports External Shaders.                     --- Recommended     [Low]
-#  0 --> Map Internal Shaders are used. Disable your extermal Shaders.                                    --- Recommended     [Madium]
-#  1 --> External Shader can be used. Map internal Shaders are enabled, but the blend is not beautiful.   --- Not Recommended [High]
+## values Description                                                                                          Recommendations Performance Impact
+# -1 -->  No Internal Shader be used. Overlay will be used. Supports External Shaders.                     --- Recommended     [Low]
+#  0 -->  Map Internal Shaders are used. Disable your extermal Shaders.                                    --- Recommended     [Madium]
+#  1 -->  External Shader can be used. Map internal Shaders are enabled, but the blend is not beautiful.   --- Not Recommended [High]
 
 
 ```
