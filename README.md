@@ -35,7 +35,7 @@ trigger toggel.external.shader set #value
 
 ## values Description                                                                     Recommendations       Performance Impact
 # -1 --> No Internal Shader be used. Overlay will be used. Supports External Shaders.     --- Recommended       --- [Low]
-#  0 --> Map Internal Shaders are used. Disable your extermal Shaders. Fabulous! Needed.  --- Recommended       --- [Madium]
+#  0 --> Map Internal Shaders are used. Disable your external Shaders. Fabulous! Needed.  --- Recommended       --- [Madium]
 #  1 --> External Shader can be used. Map internal Shaders are enabled.                   --- Recommended       --- [High]
 ```
 ### Tested Systems
