@@ -2,12 +2,12 @@
 Hourcraft is an Minecraft Adventure Map based on Hourglass, most Gamplay are the same but it is not an 1 to 1 recreation, the Storyplot is different and I also implemnted own Ideas for Gameplay features. Please read the Full Introductions carefully.  
 >
 ## Cyberwave
-- all rights to Hourglass belong to Cyberwave, this is just a fanart version made in Minecraft.
+- all rights to Hourglass belongs to Cyberwave, this is just a fanart version made in Minecraft.
 - https://store.steampowered.com/app/1212410/Hourglass/
 - https://twitter.com/cyberwavegames?lang=de
 >
 ## -- Used APIs --
-I also used code form other Github Users.
+Used code from other Github Users.
 >
 #### Player Motion API
 - https://github.com/BigPapi13/Delta
@@ -22,25 +22,26 @@ I also used code form other Github Users.
 - The first is the `resourcepack`, put this in your `resourcepacks` folder of your `.minecraft` instance.
 - The second file is the `Wolrd`, put this in your `saves` folder of your `.minecraft` instance.
 >
-- When you enter Minecraft, make sure the graphics setting is set to `Fabulous!` is set
-- - Vido Settings --> Quality --> Graphics 
-
-## -- Recommendations --
-- Tested Minecraft Version 1.19.4.
+## -- Recommendations and Tested Versions --
+### Tested Minecraft Version 1.19.4
 - Tested Fabic Mods/Version
 - - Fabric 0.14.17
 - - sodium-fabric-mc1.19.4-0.4.10+build.24
-#### External Shaders are supported, but the blend between the internal shader seems glitshed, becaused it uses an different method to applay the shader:
+>
+#### External Shaders are supported, but the blend between the internal shaderstate on/off is different, becaused it used another method to applay the shader:
 ```mcfunction
+## Shader appymend Method
 trigger toggel.external.shader set #value
 
-## values Description                                                                   Recommendations       Performance Impact
-# -1 -->  No Internal Shader be used. Overlay will be used. Supports External Shaders.  --- Recommended       [Low]
-#  0 -->  Map Internal Shaders are used. Disable your extermal Shaders.                 --- Recommended       [Madium]
-#  1 -->  External Shader can be used. Map internal Shaders are enabled.                --- Recommended       [High]
-
-
+## values Description                                                                     Recommendations       Performance Impact
+# -1 --> No Internal Shader be used. Overlay will be used. Supports External Shaders.     --- Recommended       --- [Low]
+#  0 --> Map Internal Shaders are used. Disable your extermal Shaders. Fabulous! Needed.  --- Recommended       --- [Madium]
+#  1 --> External Shader can be used. Map internal Shaders are enabled.                   --- Recommended       --- [High]
 ```
+### Tested Systems
+- Micosoft Windows 10/11
+- Linux
+
 ## -- Fixes --
 In some cases the map can start to Laag, a quick relog in the World can fix it.
 Models that are not loaded correctly can be fixt, by using 
