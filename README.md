@@ -1,4 +1,4 @@
-# Hourcraft [Minecraft Version 1.19.4]
+# Hourcraft [Minecraft Version 1.20]
 Hourcraft is an Minecraft Adventure Map based on Hourglass, most Gamplay are the same but it is not an 1 to 1 recreation, the Storyplot is different and I also implemnted own Ideas for Gameplay features. Please read the Full Introductions carefully.  
 >
 ## Cyberwave
@@ -23,10 +23,11 @@ Used code from other Github Users.
 - The second file is the `Wolrd`, put this in your `saves` folder of your `.minecraft` instance.
 >
 ## -- Recommendations and Tested Versions --
-### Tested Minecraft Version 1.19.4
+### Tested Minecraft Version 1.20
 - Tested Fabic Mods/Version
-- - Fabric 0.14.17
-- - sodium-fabric-mc1.19.4-0.4.10+build.24
+- - Fabric 0.14.20
+- - sodium-fabric-mc1.20-0.4.10+build.27
+- - iris-mc1.20-1.6.4
 >
 #### External Shaders are supported, but the blend between the internal shaderstate on/off is different, becaused it used another method to applay the shader:
 ```mcfunction
@@ -47,5 +48,9 @@ In some cases the map can start to Laag, a quick relog in the World can fix it.
 Models that are not loaded correctly can be fixt, by using 
 ```mcfunction
 trigger reload
+```
+## -- Debug Mode --
+```mcfunction
+trigger start_game ##toggels the custom gamemode
 ```
 
