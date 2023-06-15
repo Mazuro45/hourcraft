@@ -44,6 +44,9 @@ Used code from other Github Users.
 ## -- If you want create an Map --
 ```mcfunction
 trigger start_game ##toggels the custom gamemode
+#
+#
+#
 ```
 ### Inventory
 - in the "Chest" Tap of your creative invetory you will have your Hourcraft Taps
