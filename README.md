@@ -39,7 +39,7 @@ Used code from other Github Users.
 
 ### Tested Systems
 - Micosoft Windows 10/11
-- Linux
+- Linux Manjaro
 
 ## -- If you want create an Map --
 ```mcfunction
