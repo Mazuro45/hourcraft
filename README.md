@@ -19,8 +19,8 @@ Used code from other Github Users.
 ## -- Installation --
 #### Download the recent `Hourcraft[MAP-DEV-#.##]` and `Hourcraft[resources-DEV-#.##]` 
 >
-- The first is the `resourcepack`, put this in your `resourcepacks` folder of your `.minecraft` instance.
-- The second file is the `World`, put this in your `saves` folder of your `.minecraft` instance.
+>- The first file is the `World`, unzip this file and put this in your `saves` folder of your `.minecraft` instance.
+- The second is the `resourcepack`, put this in your `resourcepacks` folder of your `.minecraft` instance.
 >
 ## -- Recommendations --
 ### Minecraft Settings
