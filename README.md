@@ -1,5 +1,5 @@
 # Hourcraft DEV-0.1 [Minecraft Version 1.20] 
-Hourcraft is an Minecraft Adventure Map based on Hourglass, most Gamplay are the same but it is not an identical recreation, the Storyplot is different and I also implemnted some own Ideas for Gameplay features. Please read the Full README carefully.  
+Hourcraft is an Minecraft Adventure Map based on Hourglass, most Gamplay are the same but it is not an identical recreation, the storyplot is different and I also implemnted some own ideas for gameplay features. Please read the full README carefully.  
 >
 ## Cyberwave
 - all rights to Hourglass belongs to Cyberwave, this is just a fanart version made in Minecraft.
