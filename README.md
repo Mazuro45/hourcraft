@@ -35,6 +35,7 @@ Used code from other Github Users.
 - - Fabric 0.14.20
 - - sodium-fabric-mc1.20-0.4.10+build.27
 - - iris-mc1.20-1.6.4
+- Forge not testet yet
 
 ### Tested Systems
 - Micosoft Windows 10/11
