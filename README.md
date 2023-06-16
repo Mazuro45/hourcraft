@@ -58,11 +58,11 @@ trigger start_game ##toggels the custom gamemode
 - - The same goes for `Crystal Podest`, `Laser [Emitter]`, `Flat/ Wall_X/ Wall_Z Plattform`, `Logic Gate [AND]`
 
 ## -- Known issues --
-- Missing Texture at Oak Fence Gate
-- Missing Texture at White Concrete Powder
-- Missing Texture at Light Gray Concrete Powder
-- Missing Texture at Waxed Exposed Cut Copper Stair
-- Missing Texture at Exposed Cut Copper Stair
+- Missing Texture for Oak Fence Gate
+- Missing Texture for White Concrete Powder
+- Missing Texture for Light Gray Concrete Powder
+- Missing Texture for Waxed Exposed Cut Copper Stair
+- Missing Texture for Exposed Cut Copper Stair
 
 ## -- Fixed --
 Currently empty 
