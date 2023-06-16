@@ -58,8 +58,6 @@ trigger start_game ##toggels the custom gamemode
 - - The same goes for `Crystal Podest`, `Laser [Emitter]`, `Flat/ Wall_X/ Wall_Z Plattform`, `Logic Gate [AND]`
 
 ## -- Known issues --
-- Crystal Podest and Crystals are not working properly
-- Wall Plattforms spawns too many block_displays
 - Missing Texture at Oak Fence Gate
 - Missing Texture at White Concrete Powder
 - Missing Texture at Light Gray Concrete Powder
