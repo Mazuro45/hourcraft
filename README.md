@@ -1,8 +1,20 @@
 # Hourcraft DEV-0.1 [Minecraft Version 1.20] 
 Hourcraft is an Minecraft Adventure Map based on Hourglass, most Gamplay are the same but it is not an identical recreation, the storyplot is different and I also implemnted some own ideas for gameplay features. Please read the full README carefully.  
 >
+## -- Helpers wanted --
+If you want help me at Hourcraft, you can do this by fill the following Google Form. 
+- https://forms.gle/8g1HT91dK8oAaCib7
+- In there you can apply as:
+- `Story Writer`
+- `Level Designer`
+- `Builder`
+- `Textureing Artist`
+- `Modeling Artist`
+- `Sound Artist`
+- or `Other` if you have any other ideas, we could need.
+>
 ## Cyberwave
-- all rights to Hourglass belongs to Cyberwave, this is just a fanart version made in Minecraft.
+all rights to Hourglass belongs to Cyberwave, this is just a fanart version made in Minecraft.
 - https://store.steampowered.com/app/1212410/Hourglass/
 - https://twitter.com/cyberwavegames?lang=de
 >
