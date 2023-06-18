@@ -1,5 +1,5 @@
 # Hourcraft DEV-0.1 [Minecraft Version 1.20] 
-Hourcraft is a Minecraft Adventure Map based on Cyberwave's Hourglass. The gameplay is basically the same, create a zeitgeist of yourself, interact with buttons, pressure plates and cubes, explore ancient Egyptian temples and gain new abilities that open up new places for you to explore. As a renowned archaeologist, you are called to an excavation site where some inexplicable anomalies are appearing. Please read the full README carefully.  
+Hourcraft is a Minecraft Adventure Map based on Cyberwave's Hourglass. The gameplay is basically the same, create a zeitgeist of yourself, interact with buttons, pressure plates and cubes, explore ancient Egyptian temples and gain new abilities that open up new places for you to explore. As a renowned archaeologist, you are called to an excavation site where some inexplicable anomalies are appearing.
 >
 ## -- Helpers wanted --
 If you want help me at Hourcraft, you can do this by fill the following Google Form. 
