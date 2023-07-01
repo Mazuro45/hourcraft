@@ -1,4 +1,4 @@
-# Hourcraft DEV-0.1 [Minecraft Version 1.20] 
+# Hourcraft [Minecraft Version 1.20] 
 Hourcraft is a Minecraft Adventure Map based on Cyberwave's Hourglass. The gameplay is basically the same, create a zeitgeist of yourself, interact with buttons, pressure plates and cubes, explore ancient Egyptian temples and gain new abilities that open up new places for you to explore. As a renowned archaeologist, you are called to an excavation site where some inexplicable anomalies are appearing.
 >
 - View Lates Version:
@@ -73,13 +73,3 @@ trigger start_game ##toggels the custom gamemode
   - in the `Decoration` Tap you will find some quick things for building
 - Press F at most of the items to cycel through the dependencies, for exampel Button [Pulse] --> Button [Toggle]
 - - The same goes for `Crystal Podest`, `Laser [Emitter]`, `Flat/ Wall_X/ Wall_Z Plattform`, `Logic Gate [AND]`
-
-## -- Known issues --
-- Missing Texture for Oak Fence Gate
-- Missing Texture for White Concrete Powder
-- Missing Texture for Light Gray Concrete Powder
-- Missing Texture for Waxed Exposed Cut Copper Stair
-- Missing Texture for Exposed Cut Copper Stair
-
-## -- Fixed --
-Currently empty 
