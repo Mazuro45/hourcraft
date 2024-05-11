@@ -1,4 +1,4 @@
-# Hourcraft [Minecraft Version 1.20] 
+# Hourcraft [Minecraft Version 1.21] 
 Hourcraft is a Minecraft Adventure Map based on Cyberwave's Hourglass. The gameplay is basically the same, create a zeitgeist of yourself, interact with buttons, pressure plates and cubes, explore ancient Egyptian temples and gain new abilities that open up new places for you to explore. As a renowned archaeologist, you are called to an excavation site where some inexplicable anomalies are appearing.
 >
 - View Lates Version:
@@ -41,18 +41,13 @@ Used code from other Github Users.
 >
 ## -- Recommendations --
 ### Minecraft Settings
-- Minecraft 1.20 or 1.20.1
+- Minecraft 24w19a
 - Graphics on `Fabulous`
 - Render Distance on `16+ Chunks`
 - Simulation Distance on `10+ Chunks`
 - Particles `All`
   
 ### Tested Extras
-- Tested Fabic Mods/Version
-- - Fabric 0.14.20
-- - sodium-fabric-mc1.20-0.4.10+build.27
-- - iris-mc1.20-1.6.4
-- Forge not testet yet
 
 ### Tested Systems
 - Micosoft Windows 10/11
