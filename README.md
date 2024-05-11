@@ -5,7 +5,11 @@ Hourcraft is a Minecraft Adventure Map based on Cyberwave's Hourglass. The gamep
 - https://github.com/Mazuro45/hourcraft/releases/
 - View all Versions:
 - https://github.com/Mazuro45/hourcraft/tags
-
+>
+## Project Status
+- Updating to Mincraft 1.21
+>
+>  
 ## -- Helpers wanted --
 If you want help me at Hourcraft, you can do this by fill the following Google Form. 
 - https://forms.gle/8g1HT91dK8oAaCib7
@@ -28,10 +32,6 @@ Used code from other Github Users.
 >
 #### Player Motion API
 - https://github.com/BigPapi13/Delta
->
-#### WASD Tracking API
-- https://github.com/JDawgtor/WASD-Detection
->
 >
 ## -- Installation --
 #### Download the recent `Hourcraft[MAP-DEV-#.##]` and `Hourcraft[resources-DEV-#.##]` 
