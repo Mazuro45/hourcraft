@@ -8,6 +8,7 @@ Hourcraft is a Minecraft Adventure Map based on Cyberwave's Hourglass. The gamep
 >
 ## Project Status
 - Updating to Mincraft 1.21
+- Current Minecraft Version 1.20.6
 >
 >  
 ## -- Helpers wanted --
