@@ -41,7 +41,7 @@ Used code from other Github Users.
 >
 ## -- Recommendations --
 ### Minecraft Settings
-- Minecraft 24w19a
+- Minecraft 1.20.6
 - Graphics on `Fabulous`
 - Render Distance on `16+ Chunks`
 - Simulation Distance on `10+ Chunks`
