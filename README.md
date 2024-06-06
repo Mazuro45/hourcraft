@@ -55,6 +55,8 @@ Used code from other Github Users.
 
 ## -- If you want create an Map --
 ```mcfunction
+function game:load ## type this when you are entering a world for the first time
+#
 trigger start_game ##toggels the custom gamemode
 #
 # for more Detail ask me at Discord 
